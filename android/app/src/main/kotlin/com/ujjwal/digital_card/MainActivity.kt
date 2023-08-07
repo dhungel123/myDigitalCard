@@ -1,4 +1,4 @@
-package np.com.broadwayinfosys.first_project
+package com.ujjwal.digital_card
 
 import io.flutter.embedding.android.FlutterActivity
 
